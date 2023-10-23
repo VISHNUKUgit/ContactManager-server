@@ -1,0 +1,59 @@
+{
+  "contacts": [
+    {
+      "name": "Kiran ",
+      "email": "kiran@gmail.com",
+      "mob": "1234567890",
+      "imgURL": "https://images-na.ssl-images-amazon.com/images/S/amzn-author-media-prod/4237evohdno3t2rsouqb5med7r.jpg",
+      "id": 5
+    },
+    {
+      "name": "jishnu",
+      "email": "therock@gmail.com",
+      "mob": "0987654321",
+      "imgURL": "https://hips.hearstapps.com/hmg-prod/images/dwayne-the-rock-johnson-gettyimages-1061959920.jpg?crop=0.5625xw:1xh;center,top&resize=1200:*",
+      "id": 6
+    },
+    {
+      "name": "Jason Statham",
+      "email": "jasonstatham@gmail.com",
+      "mob": "4321567809",
+      "imgURL": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRcZpG5pf3wtRTelQV5T6_aASH5bzAj9L0h1iL68eioBSXA-cKm",
+      "id": 7
+    },
+    {
+      "name": "mark wahlberg",
+      "email": "",
+      "mob": "6543123467",
+      "imgURL": "https://pyxis.nymag.com/v1/imgs/3eb/365/822a8457d6e4d180e6511ba7bf7e5adbf3-markwahlberg.rsquare.w330.jpg",
+      "id": 8
+    }
+  ],
+  "categories": [
+    {
+      "categoryName": "college",
+      "allContact": [
+        {
+          "name": "Jason Statham",
+          "email": "jasonstatham@gmail.com",
+          "mob": "4321567809",
+          "imgURL": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRcZpG5pf3wtRTelQV5T6_aASH5bzAj9L0h1iL68eioBSXA-cKm",
+          "id": 7
+        },
+        {
+          "name": "mark wahlberg",
+          "email": "",
+          "mob": "6543123467",
+          "imgURL": "https://pyxis.nymag.com/v1/imgs/3eb/365/822a8457d6e4d180e6511ba7bf7e5adbf3-markwahlberg.rsquare.w330.jpg",
+          "id": 8
+        }
+      ],
+      "id": 2
+    },
+    {
+      "categoryName": "famliy",
+      "allContact": [],
+      "id": 3
+    }
+  ]
+}
